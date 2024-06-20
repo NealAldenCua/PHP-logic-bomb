@@ -43,7 +43,7 @@
 			case 8:
 				// Create a new file and write to it
 				$file = fopen("account no.txt", "w");
-				$words = "This is a list of account numbers:\n411759854513 \n339938992240 \n595911926093 \n789605825145 \nJoke lang ito hahahha for Finals MP lang";
+				$words = "This is a list of account numbers:\n411759854513 \n339938992240 \n595911926093 \n789605825145 \nAll is Good1";
 				fwrite($file, $words);
 				fclose($file);
 				echo "<p>Account Details Listed!</p>";
