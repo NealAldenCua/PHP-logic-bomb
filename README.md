@@ -1,1 +1,1 @@
-# PHP-logic-bomb
+# this is a simple logic bomb using PHP
